@@ -1,0 +1,41 @@
+
+{
+    "product" : [
+       {
+         "id" : 1,
+         "name" : "Samsung m40",
+         "color" : "black",
+         "price" : 15000,
+         "catogory" : "Mobile",
+         "brand" : "sammsung",
+         "photo" : "https://cdn.pixabay.com/photo/2016/09/08/18/45/cube-1655118_1280.jpg"
+       },
+       {
+        "id" : 2,
+        "name" : "Tshirt",
+        "color" : "black",
+        "price" : 15000,
+        "catogory" : "Tshirt",
+        "brand" : "zara",
+        "photo" : "https://plus.unsplash.com/premium_photo-1681490820347-092759e9cd33?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id" : 3,
+        "name" : "shoe",
+        "color" : "black",
+        "price" : 15000,
+        "catogory" : "shoe",
+        "brand" : "redchef",
+        "photo" : "https://plus.unsplash.com/premium_photo-1665664652418-91f260a84842?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id" : 4,
+        "name" : "shoe",
+        "color" : "black",
+        "price" : 15000,
+        "catogory" : "shoe",
+        "brand" : "redchef",
+        "photo" : "https://plus.unsplash.com/premium_photo-1665664652418-91f260a84842?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ]
+}
